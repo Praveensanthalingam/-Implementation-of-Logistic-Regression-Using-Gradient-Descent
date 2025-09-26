@@ -112,7 +112,8 @@ print(y_prednew)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/9667fec2-45e0-413c-91b6-9510de24e68a)
+
+<img width="941" height="484" alt="image" src="https://github.com/user-attachments/assets/d71b3cab-dd35-468a-bf43-6a4bcbf483ef" />
 
 
 
